@@ -41,3 +41,7 @@
 
 **Expected Result:**
 - Filters are displayed to refine search results
+
+  ## Test Coverage Decision
+Three test cases were designed for this feature since the search functionality is low in complexity and can be classified as smoke testing. It does not involve financial transactions or sensitive personal data, therefore the associated business risk is low.
+
